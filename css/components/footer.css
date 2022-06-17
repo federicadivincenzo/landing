@@ -1,0 +1,24 @@
+.footer {
+  background-color: rgb(40, 40, 40);
+  color: rgba(255, 255, 255, 0.7);
+  padding: .5em;
+  text-align: center;
+}
+
+.inline-social-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.inline-social-list a {
+  font-size: 3em;
+  margin: 0 .2em;
+  color: #1EDD88;
+}
+
+
+.inline-social-list a:hover {
+  color: #149e60;
+}
